@@ -5,15 +5,18 @@ body{
     font-family:"BBH Sans Hegarty", sans-serif ;
 }
 header{
-    border-bottom: solid 2px rgb(22, 133, 224);
+    border-bottom: solid 2px rgb(157, 206, 246);
     padding: 20px;
     font-size: 32px;
     color: rgb(41, 22, 214);
 }
 section{
-    backgroud: blue;
+    background: blue;
     padding-bottom: 80px;
     padding-top: 80px;
     display: flex;
     justify-content: center;
+}
+.chamada-texto{
+    margin-right: 5%;
 }
